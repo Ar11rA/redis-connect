@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    redis (4.0.0)
+    redis-sentinel (1.5.0)
+      redis
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  redis
+  redis-sentinel
+
+BUNDLED WITH
+   1.15.4
